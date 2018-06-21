@@ -1,0 +1,21 @@
+{
+  "name": "mobx-state-tree-todolist",
+  "description": "Features a trivial TodoList including React based UI. Feel free to fork and play around!",
+  "version": "0.0.9",
+  "dependencies": {
+    "react-dom": "15.5.3",
+    "react": "15.5.3",
+    "mobx-state-tree": "0.10.1",
+    "mobx-react": "4.2.2",
+    "mobx": "3.1.16"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
